@@ -18,3 +18,6 @@ As it stands, there are 2 chatrooms:
 PS: Chatrooms can have as many users as possible.
 
 This project is live on https://zuri-chat-app.netlify.app/
+
+![image](https://user-images.githubusercontent.com/62211699/117124188-eba01e80-ad8f-11eb-91b5-86f11725f601.png)
+
