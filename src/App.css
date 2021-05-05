@@ -142,11 +142,11 @@
 
 .read-receipts {
   position: relative;
-  bottom: 6px;
+  bottom: 2px;
 }
 
 .read-receipt {
-  width: 13px;
+  width: 15gitpx;
   height: 13px;
   border-radius: 13px;
   margin: 1.5px;
