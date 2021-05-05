@@ -1,8 +1,8 @@
-#Live-chat-app
+# Live-chat-app
 
 The live chat app is built with react and chatengine.io, it enables users chat in real time. Users are expected to sign up before they can have access to chat on live-chat-app. Temporarily, the sign up feature isn't functional. There are 3 already created users for testing :
 
-##USERS
+## USERS
 1. username:Femi  password:femi
 2. username:Motun  password:motun
 3. username:Xyluz  password:xyluz
@@ -11,8 +11,10 @@ There's an option to create a chatroom and add fellow users to any chatroom of y
 
 As it stands, there are 2 chatrooms:
 
-##CHATROOOMS
+## CHATROOOMS
 1. announcement - This chatroom has two users( Femi and Motun).
 2. random - This chatroom also has two users (Femi and Xyluz).
 
 PS: Chatrooms can have as many users as possible.
+
+This project is live on https://zuri-chat-app.netlify.app/
